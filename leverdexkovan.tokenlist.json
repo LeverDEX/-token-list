@@ -1,14 +1,14 @@
 {
   "name": "Kovan List",
   "timestamp": "2020-04-12T12:00:00+00:00",
-  "logoURI": "https://github.com/marginswap/token-list/raw/main/marginswap-logo.png",
+  "logoURI": "https://github.com/leverdex/token-list/raw/main/leverdex-logo.png",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "keywords": [
-    "marginswap",
+    "leverdex",
     "defi",
     "crossmargin"
   ],
@@ -19,7 +19,7 @@
           "name": "Dai Stablecoin",
           "symbol": "DAI",
           "decimals": 18,
-          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/multi-collateral-dai.png"
+          "logoURI": "https://github.com/leverdex/token-list/raw/main/logo/multi-collateral-dai.png"
         },
         { 
           "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
@@ -27,7 +27,7 @@
           "name": "Wrapped ETH",
           "symbol": "WETH",
           "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/marginswap/token-list/main/logo/ethereum.png"
+          "logoURI": "https://raw.githubusercontent.com/leverdex/token-list/main/logo/ethereum.png"
         },
           {
           "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -35,7 +35,7 @@
           "name": "Uniswap",
           "symbol": "UNI",
           "decimals": 18,
-          "logoURI": "https://github.com/marginswap/token-list/raw/main/logo/uniswap-uni-logo.png"
+          "logoURI": "https://github.com/leverdex/token-list/raw/main/logo/uniswap-uni-logo.png"
         }
   ]
 }
